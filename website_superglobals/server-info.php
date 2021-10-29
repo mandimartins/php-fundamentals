@@ -22,6 +22,6 @@ $client = [
     "Remote Port" => $_SERVER["REMOTE_PORT"]
 ];
 
-print_r($client);
+// print_r($client);
 
 //Create Client Array
